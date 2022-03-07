@@ -1,4 +1,4 @@
 # Counter_using_html_css_jsbyafzal
 HTML , CSS, JAVAScript
-# project Link:
+# Website Link:
 https://counterproject1.herokuapp.com/
